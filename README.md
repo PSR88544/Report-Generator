@@ -1,6 +1,6 @@
 # Report-Generator
 
-This project idea was born from the misery of repeated and boring work of report making. I wanted to create a tool that can automatically generate high-quality reports based on LLM technologies such as OpenAI's GPT-3 language model. This project aims and tries to allow users to input their data, choose a template, and get a report in minutes. The reports generated not only aims to be informative and accurate, but also engaging and creative. The tool can also adapt to different domains and purposes, such as business, education, or research. This project is an innovative and exciting way to leverage the power of AI for report writing.
+This project idea was born from the misery of repeated and boring work of report making. I wanted to create a tool that can automatically generate high-quality reports based on LLM technologies such as OpenAI's GPT-3 language model. This project aims and tries to allow busy and fun-deprived students to input their data, choose a template, and get a report in minutes. The reports generated not only aims to be informative and accurate, but also engaging and creative. The tool can also adapt to different domains and purposes, such as business, education, or research. This project is an innovative and exciting way to leverage the power of AI for report writing.
 
 ![Mordern Problem Requires Mordern Solution](https://github.com/PSR88544/Report-Generator/assets/67272229/84400321-0042-463b-bd93-0e7ac394194d)
 
