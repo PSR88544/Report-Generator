@@ -17,7 +17,7 @@ This project idea was born from the misery of repeated and boring work of report
 ## Prerequisites
 Before running the application, make sure you have the following installed:
 
-* Python 3.7 or higher
+* Python 3.11 or higher
 *  pip (Python package installer)
 ## Installation
 1.  Clone the repository to your local machine:
